@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats-rose-gamma-76.vercel.app/api?username=Zeroplan123&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-1ubejdagt-zeroplans-projects.vercel.app/api?username=Zeroplan123&show_icons=true&theme=tokyonight)
