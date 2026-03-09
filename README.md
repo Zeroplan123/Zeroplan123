@@ -137,7 +137,7 @@ Halo! Saya seorang **Full Stack Developer** yang passionate tentang menciptakan 
 
 ⭐ Jika Anda menyukai proyek saya, jangan lupa untuk memberikan bintang! ⭐
 
-<img src="https://github.com/Zeroplan123/Zeroplan123/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Zeroplan123/Zeroplan123/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
