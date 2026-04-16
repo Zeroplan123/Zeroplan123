@@ -1,5 +1,5 @@
 <div align="center">
-# Fahri Gani
+<h1>Fahri Gani</h1>
 
   <br/>
 <!-- Animated Banner -->
