@@ -1,0 +1,25 @@
+<svg width="100%" viewBox="0 0 860 290" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">GitHub Profile Header Blue - Fahri Gani</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Animated blue wave header for GitHub profile</desc>
+  <defs>
+    
+    <linearGradient id="bggrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0d1f35"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="280" fill="url(#bggrad)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <path fill="#0a2a4a" opacity="0.7" d="M0,230 C200,200 400,250 600,220 C750,200 820,230 860,215 L860,280 L0,280 Z" style="fill:rgb(10, 42, 74);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path fill="#0e3d6e" opacity="0.75" d="M0,200 C150,160 300,220 460,180 C620,140 750,200 860,170 L860,280 L0,280 Z" style="fill:rgb(14, 61, 110);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.75;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path fill="#1a6bbf" opacity="0.9" d="M0,180 C180,120 360,200 540,150 C720,100 800,160 860,140 L860,280 L0,280 Z" style="fill:rgb(26, 107, 191);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <text x="430" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="#e8f4ff" letter-spacing="1" style="fill:rgb(232, 244, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Segoe UI&quot;, Arial, sans-serif;font-size:52px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Fahri Gani</text>
+
+  <text x="430" y="158" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="400" fill="#90b8d8" letter-spacing="2" style="fill:rgb(144, 184, 216);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Segoe UI&quot;, Arial, sans-serif;font-size:18px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Full Stack Developer · Jakarta, Indonesia</text>
+
+  <rect x="180" y="183" width="500" height="1" fill="#58a6ff" opacity="0.3" rx="1" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <text x="430" y="213" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" opacity="0.9" letter-spacing="1" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:&quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Laravel · React · Vue.js · TypeScript</text>
+</svg>
