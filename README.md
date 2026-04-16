@@ -1,11 +1,11 @@
 <div align="center">
 # Fahri Gani
 
-  
+  <br/>
 <!-- Animated Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Vue.js;Always+building%2C+always+learning." alt="Typing SVG" />
 
-<br/>
+
 
 
 
