@@ -1,15 +1,12 @@
 <div align="center">
-<h1>Fahri Gani</h1>
 
-  <br/>
-<!-- Animated Banner -->
+<!-- Animated Header -->
+<img src="https://raw.githubusercontent.com/Zeroplan123/Zeroplan123/main/github-header_preview.svg" width="100%" alt="Fahri Gani Header" />
+
+<br/>
+
+<!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Vue.js;Always+building%2C+always+learning." alt="Typing SVG" />
-
-
-
-
-
-**Full Stack Developer** &nbsp;·&nbsp; Jakarta, Indonesia
 
 <br/>
 
@@ -85,7 +82,6 @@ Currently deepening expertise in TypeScript, cloud infrastructure, and DevOps pr
 
 <br/><br/>
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeroplan123&bg_color=0d1117&color=8b949e&line=f0a500&point=f0a500&area=true&area_color=f0a500&hide_border=true&title_color=58a6ff" />
 
 </div>
@@ -96,9 +92,9 @@ Currently deepening expertise in TypeScript, cloud infrastructure, and DevOps pr
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[Jarvis](https://github.com/Zeroplan123/JARVIS)** | Ai Assistent can make your day more easy | React · Typescript |
-| **[E-ticketing](https://github.com/Zeroplan123/flight_gani)** | Website E-tiketing Airplanes  | Laravel · MySQL · Tailwind CSS |
-| **[UndanginAja](https://github.com/Zeroplan123/UndanginAja)** |A website to make Online wedding Invitations Letter | Laravel · MySql · Tailwind CSS |
+| **[Jarvis](https://github.com/Zeroplan123/JARVIS)** | AI Assistant to make your day easier | React · TypeScript |
+| **[E-ticketing](https://github.com/Zeroplan123/flight_gani)** | Website E-ticketing Airplanes | Laravel · MySQL · Tailwind CSS |
+| **[UndanginAja](https://github.com/Zeroplan123/UndanginAja)** | A website to make Online Wedding Invitation Letters | Laravel · MySQL · Tailwind CSS |
 
 ---
 
