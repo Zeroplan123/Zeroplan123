@@ -1,13 +1,15 @@
 <div align="center">
+# Fahri Gani
 
+  
 <!-- Animated Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Vue.js;Always+building%2C+always+learning." alt="Typing SVG" />
 
 <br/>
 
-# Fahri Gani
 
-**Full Stack Developer** &nbsp;·&nbsp; Cikarang, Indonesia
+
+**Full Stack Developer** &nbsp;·&nbsp; Jakarta, Indonesia
 
 <br/>
 
@@ -94,9 +96,9 @@ Currently deepening expertise in TypeScript, cloud infrastructure, and DevOps pr
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[Project Title 1](#)** | Brief description of what this project does and the problem it solves | React · Node.js · MongoDB |
-| **[Project Title 2](#)** | Brief description of what this project does and the problem it solves | Laravel · MySQL · Bootstrap |
-| **[Project Title 3](#)** | Brief description of what this project does and the problem it solves | Vue.js · Express · PostgreSQL |
+| **[Jarvis](https://github.com/Zeroplan123/JARVIS)** | Ai Assistent can make your day more easy | React · Typescript |
+| **[E-ticketing](https://github.com/Zeroplan123/flight_gani)** | Website E-tiketing Airplanes  | Laravel · MySQL · Tailwind CSS |
+| **[UndanginAja](https://github.com/Zeroplan123/UndanginAja)** |A website to make Online wedding Invitations Letter | Laravel · MySql · Tailwind CSS |
 
 ---
 
