@@ -1,69 +1,12 @@
 <div align="center">
-<svg width="860" height="280" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .wave1 { animation: wave1move 6s ease-in-out infinite alternate; }
-      .wave2 { animation: wave2move 8s ease-in-out infinite alternate; }
-      .wave3 { animation: wave3move 5s ease-in-out infinite alternate; }
-      @keyframes wave1move {
-        0%   { d: path("M0,180 C180,120 360,200 540,150 C720,100 800,160 860,140 L860,280 L0,280 Z"); }
-        100% { d: path("M0,160 C200,200 380,110 560,170 C740,220 810,130 860,160 L860,280 L0,280 Z"); }
-      }
-      @keyframes wave2move {
-        0%   { d: path("M0,200 C150,160 300,220 460,180 C620,140 750,200 860,170 L860,280 L0,280 Z"); }
-        100% { d: path("M0,185 C170,230 330,165 500,200 C670,235 770,175 860,195 L860,280 L0,280 Z"); }
-      }
-      @keyframes wave3move {
-        0%   { d: path("M0,230 C200,200 400,250 600,220 C750,200 820,230 860,215 L860,280 L0,280 Z"); }
-        100% { d: path("M0,218 C220,248 420,208 620,235 C780,255 830,215 860,230 L860,280 L0,280 Z"); }
-      }
-      .title-text {
-        animation: fadein 1.2s ease forwards;
-      }
-      .sub-text {
-        animation: fadein 1.8s ease forwards;
-        opacity: 0;
-      }
-      @keyframes fadein {
-        from { opacity: 0; transform: translateY(8px); }
-        to   { opacity: 1; transform: translateY(0); }
-      }
-    </style>
-    <linearGradient id="bggrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#161b22"/>
-    </linearGradient>
-  </defs>
+<h1>Fahri Gani</h1>
 
-  <!-- Background -->
-  <rect width="860" height="280" fill="url(#bggrad)"/>
+  <br/>
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=7EE787&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Vue.js;Always+building%2C+always+learning." alt="Typing SVG" />
 
-  <!-- Animated waves -->
-  <path class="wave3" fill="#1a3a5c" opacity="0.6"
-    d="M0,230 C200,200 400,250 600,220 C750,200 820,230 860,215 L860,280 L0,280 Z"/>
-  <path class="wave2" fill="#1e4976" opacity="0.7"
-    d="M0,200 C150,160 300,220 460,180 C620,140 750,200 860,170 L860,280 L0,280 Z"/>
-  <path class="wave1" fill="#c96a18" opacity="0.85"
-    d="M0,180 C180,120 360,200 540,150 C720,100 800,160 860,140 L860,280 L0,280 Z"/>
 
-  <!-- Name -->
-  <text class="title-text" x="430" y="115" text-anchor="middle"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="52" font-weight="700" fill="#f0e6d8" letter-spacing="1">Fahri Gani</text>
 
-  <!-- Subtitle -->
-  <text class="sub-text" x="430" y="158" text-anchor="middle"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="18" font-weight="400" fill="#b8a898" letter-spacing="2">Full Stack Developer · Jakarta, Indonesia</text>
-
-  <!-- Divider -->
-  <rect x="180" y="183" width="500" height="1" fill="#ffffff" opacity="0.15" rx="1"/>
-
-  <!-- Tech stack line -->
-  <text x="430" y="213" text-anchor="middle"
-    font-family="'Courier New', monospace"
-    font-size="13" fill="#7ee787" opacity="0.9" letter-spacing="1">Laravel · React · Vue.js · TypeScript</text>
-</svg>
 
 
 **Full Stack Developer** &nbsp;·&nbsp; Jakarta, Indonesia
