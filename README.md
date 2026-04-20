@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://raw.githubusercontent.com/Zeroplan123/Zeroplan123/main/github_header_modern_preview.svg" width="100%" alt="Fahri Gani Header" />
+<img src="https://raw.githubusercontent.com/Zeroplan123/Zeroplan123/main/github_header_centered.svg" width="100%" alt="Fahri Gani Header" />
 
 <br/>
 
