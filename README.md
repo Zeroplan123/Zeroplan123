@@ -21,7 +21,7 @@
 
 ## About
 
-Full Stack Developer with a focus on building clean, functional, and scalable web applications. Comfortable working across the entire stack — from crafting intuitive user interfaces to designing robust backend systems.
+Full Stack Developer with a focus on building clean, functional, and scalable web applications. Comfortable working across the entire stack from crafting intuitive user interfaces to designing robust backend systems.
 
 Currently deepening expertise in TypeScript, cloud infrastructure, and DevOps practices. Open to collaborations on interesting projects.
 
